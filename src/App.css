@@ -1,0 +1,84 @@
+body {
+  background-color: rgb(213, 51, 62);
+  font-family: 'Coda Caption', sans-serif;
+  cursor: url("mouth.png"), url(https://imgur.com/8G5Dhcp);
+  color: white;
+  height: 100vh;
+}
+#defaultCanvas0 {
+  z-index: -1;
+  position: absolute;
+}
+
+.App {
+  margin: 5%;
+}
+
+section {
+  font-size: 12px;
+  color: white
+}
+
+.Nav-header {
+  text-align: left;
+  color: white;
+  /* overflow: hidden; */
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+  padding: 14px 16px;
+}
+.App-about {
+  text-align: left;
+  cursor:url("https://imgur.com/8G5Dhcp"), auto;
+}
+
+.App-about h1 {
+  font-size: 60px;
+  margin-bottom: 0;
+}
+.App-about h2 {
+  font-size: 30px;
+  margin-bottom: -10px;
+}
+.App-about h3 {
+  font-size: 25px;
+  margin-bottom: -10px;
+}
+.social-links i {
+  color: white;
+  padding-right: 10px;
+}
+
+.crumbs-image {
+  background-image: url("crumbs.png");
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: rgb(213, 51, 62);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
