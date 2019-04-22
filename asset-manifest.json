@@ -1,14 +1,14 @@
 {
-  "main.css": "jesslodge.com/static/css/main.c38dac90.chunk.css",
-  "main.js": "jesslodge.com/static/js/main.2bccdcc1.chunk.js",
-  "main.js.map": "jesslodge.com/static/js/main.2bccdcc1.chunk.js.map",
-  "runtime~main.js": "jesslodge.com/static/js/runtime~main.e594d289.js",
-  "runtime~main.js.map": "jesslodge.com/static/js/runtime~main.e594d289.js.map",
-  "static/js/2.f337dedd.chunk.js": "jesslodge.com/static/js/2.f337dedd.chunk.js",
-  "static/js/2.f337dedd.chunk.js.map": "jesslodge.com/static/js/2.f337dedd.chunk.js.map",
-  "index.html": "jesslodge.com/index.html",
-  "precache-manifest.3f2fc4f88417f1e7a18cc5d66947a299.js": "jesslodge.com/precache-manifest.3f2fc4f88417f1e7a18cc5d66947a299.js",
-  "service-worker.js": "jesslodge.com/service-worker.js",
-  "static/css/main.c38dac90.chunk.css.map": "jesslodge.com/static/css/main.c38dac90.chunk.css.map",
-  "static/media/App.css": "jesslodge.com/static/media/mouth.414092d0.png"
+  "main.css": "/jklodge/static/css/main.a2f7fa17.chunk.css",
+  "main.js": "/jklodge/static/js/main.0211f42a.chunk.js",
+  "main.js.map": "/jklodge/static/js/main.0211f42a.chunk.js.map",
+  "runtime~main.js": "/jklodge/static/js/runtime~main.ad3e6985.js",
+  "runtime~main.js.map": "/jklodge/static/js/runtime~main.ad3e6985.js.map",
+  "static/js/2.f337dedd.chunk.js": "/jklodge/static/js/2.f337dedd.chunk.js",
+  "static/js/2.f337dedd.chunk.js.map": "/jklodge/static/js/2.f337dedd.chunk.js.map",
+  "index.html": "/jklodge/index.html",
+  "precache-manifest.789e40582363233c6cec9ae225495539.js": "/jklodge/precache-manifest.789e40582363233c6cec9ae225495539.js",
+  "service-worker.js": "/jklodge/service-worker.js",
+  "static/css/main.a2f7fa17.chunk.css.map": "/jklodge/static/css/main.a2f7fa17.chunk.css.map",
+  "static/media/App.css": "/jklodge/static/media/mouth.414092d0.png"
 }
