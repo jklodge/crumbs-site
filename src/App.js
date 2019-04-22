@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import About from './Components/About';
-import Skills from './Components/Skills';
+// import Skills from './Components/Skills';
 import Nav from './Common/Nav';
 import crumbs from './crumbs.png';
 import './App.css';
