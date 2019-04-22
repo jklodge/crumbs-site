@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/jesslodge.com/precache-manifest.f56b9b8067151a97d933a03243878b4c.js"
+  "/www.jesslodge.com/precache-manifest.1aad9e37e42c792514a572e50203bb76.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/jesslodge.com/index.html", {
+workbox.routing.registerNavigationRoute("/www.jesslodge.com/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

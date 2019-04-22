@@ -1,14 +1,14 @@
 {
-  "main.css": "/jesslodge.com/static/css/main.ad39b783.chunk.css",
-  "main.js": "/jesslodge.com/static/js/main.8f997f17.chunk.js",
-  "main.js.map": "/jesslodge.com/static/js/main.8f997f17.chunk.js.map",
-  "runtime~main.js": "/jesslodge.com/static/js/runtime~main.87258640.js",
-  "runtime~main.js.map": "/jesslodge.com/static/js/runtime~main.87258640.js.map",
-  "static/js/2.f337dedd.chunk.js": "/jesslodge.com/static/js/2.f337dedd.chunk.js",
-  "static/js/2.f337dedd.chunk.js.map": "/jesslodge.com/static/js/2.f337dedd.chunk.js.map",
-  "index.html": "/jesslodge.com/index.html",
-  "precache-manifest.f56b9b8067151a97d933a03243878b4c.js": "/jesslodge.com/precache-manifest.f56b9b8067151a97d933a03243878b4c.js",
-  "service-worker.js": "/jesslodge.com/service-worker.js",
-  "static/css/main.ad39b783.chunk.css.map": "/jesslodge.com/static/css/main.ad39b783.chunk.css.map",
-  "static/media/App.css": "/jesslodge.com/static/media/mouth.414092d0.png"
+  "main.css": "/www.jesslodge.com/static/css/main.197a2d10.chunk.css",
+  "main.js": "/www.jesslodge.com/static/js/main.aa16ece8.chunk.js",
+  "main.js.map": "/www.jesslodge.com/static/js/main.aa16ece8.chunk.js.map",
+  "runtime~main.js": "/www.jesslodge.com/static/js/runtime~main.2541d61c.js",
+  "runtime~main.js.map": "/www.jesslodge.com/static/js/runtime~main.2541d61c.js.map",
+  "static/js/2.f337dedd.chunk.js": "/www.jesslodge.com/static/js/2.f337dedd.chunk.js",
+  "static/js/2.f337dedd.chunk.js.map": "/www.jesslodge.com/static/js/2.f337dedd.chunk.js.map",
+  "index.html": "/www.jesslodge.com/index.html",
+  "precache-manifest.1aad9e37e42c792514a572e50203bb76.js": "/www.jesslodge.com/precache-manifest.1aad9e37e42c792514a572e50203bb76.js",
+  "service-worker.js": "/www.jesslodge.com/service-worker.js",
+  "static/css/main.197a2d10.chunk.css.map": "/www.jesslodge.com/static/css/main.197a2d10.chunk.css.map",
+  "static/media/App.css": "/www.jesslodge.com/static/media/mouth.414092d0.png"
 }
