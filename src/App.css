@@ -1,9 +1,12 @@
 body {
   background-color: rgb(213, 51, 62);
   font-family: 'Coda Caption', sans-serif;
-  cursor: url("mouth.png"), url(https://imgur.com/8G5Dhcp);
   color: white;
   height: 100vh;
+  background-image: url('mouth.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 #defaultCanvas0 {
   z-index: -1;
@@ -30,7 +33,6 @@ section {
 }
 .App-about {
   text-align: left;
-  cursor:url("https://imgur.com/8G5Dhcp"), auto;
 }
 
 .App-about h1 {
