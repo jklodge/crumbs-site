@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/jklodge.github.io/precache-manifest.3148a4da01fc98d186634a8781be0c78.js"
+  "jesslodge.com/precache-manifest.3f2fc4f88417f1e7a18cc5d66947a299.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/jklodge.github.io/index.html", {
+workbox.routing.registerNavigationRoute("jesslodge.com/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

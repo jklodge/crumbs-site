@@ -1,14 +1,14 @@
 {
-  "main.css": "/jklodge.github.io/static/css/main.76cf732b.chunk.css",
-  "main.js": "/jklodge.github.io/static/js/main.3e110c7a.chunk.js",
-  "main.js.map": "/jklodge.github.io/static/js/main.3e110c7a.chunk.js.map",
-  "runtime~main.js": "/jklodge.github.io/static/js/runtime~main.2ceff89f.js",
-  "runtime~main.js.map": "/jklodge.github.io/static/js/runtime~main.2ceff89f.js.map",
-  "static/js/2.f337dedd.chunk.js": "/jklodge.github.io/static/js/2.f337dedd.chunk.js",
-  "static/js/2.f337dedd.chunk.js.map": "/jklodge.github.io/static/js/2.f337dedd.chunk.js.map",
-  "index.html": "/jklodge.github.io/index.html",
-  "precache-manifest.3148a4da01fc98d186634a8781be0c78.js": "/jklodge.github.io/precache-manifest.3148a4da01fc98d186634a8781be0c78.js",
-  "service-worker.js": "/jklodge.github.io/service-worker.js",
-  "static/css/main.76cf732b.chunk.css.map": "/jklodge.github.io/static/css/main.76cf732b.chunk.css.map",
-  "static/media/App.css": "/jklodge.github.io/static/media/mouth.414092d0.png"
+  "main.css": "jesslodge.com/static/css/main.c38dac90.chunk.css",
+  "main.js": "jesslodge.com/static/js/main.2bccdcc1.chunk.js",
+  "main.js.map": "jesslodge.com/static/js/main.2bccdcc1.chunk.js.map",
+  "runtime~main.js": "jesslodge.com/static/js/runtime~main.e594d289.js",
+  "runtime~main.js.map": "jesslodge.com/static/js/runtime~main.e594d289.js.map",
+  "static/js/2.f337dedd.chunk.js": "jesslodge.com/static/js/2.f337dedd.chunk.js",
+  "static/js/2.f337dedd.chunk.js.map": "jesslodge.com/static/js/2.f337dedd.chunk.js.map",
+  "index.html": "jesslodge.com/index.html",
+  "precache-manifest.3f2fc4f88417f1e7a18cc5d66947a299.js": "jesslodge.com/precache-manifest.3f2fc4f88417f1e7a18cc5d66947a299.js",
+  "service-worker.js": "jesslodge.com/service-worker.js",
+  "static/css/main.c38dac90.chunk.css.map": "jesslodge.com/static/css/main.c38dac90.chunk.css.map",
+  "static/media/App.css": "jesslodge.com/static/media/mouth.414092d0.png"
 }
