@@ -18,4 +18,8 @@ export default function sketch(p){
       p.image(img, event.clientX, event.clientY, 50, 50)
     }
 
+    p.touchStarted = (event) => {
+      p.image(img, event.clientX, event.clientY, 50, 50)
+    }
+
 }
