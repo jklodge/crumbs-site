@@ -1,5 +1,6 @@
 import crumbs from '../crumbs.png';
 
+
 export default function sketch(p){
     // let canvas;
     let img;
@@ -13,13 +14,8 @@ export default function sketch(p){
     p.windowResized = () => {
       p.resizeCanvas(window.innerWidth, window.innerHeight);
     }
-
-    p.draw = () => {
-      p.cursor('../crumbs.png');
-    }
-
     p.mouseClicked = (event) => {
-      p.image(img, event.clientX, event.clientY, 50, 50);
+      p.image(img, event.clientX, event.clientY, 50, 50)
     }
 
 }

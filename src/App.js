@@ -12,7 +12,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Nav />
+        <Nav/>
         <P5Wrapper crumbs={crumbs} sketch={sketch} image={crumbs}></P5Wrapper>
         <About crumbs={crumbs}/>
         {/* <Skills /> */}

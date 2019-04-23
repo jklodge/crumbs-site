@@ -25,6 +25,13 @@ section {
   top: 0;
   width: 100%;
   padding: 14px 16px;
+
+}
+.Nav-header img {
+  width: 30px;
+  height: 30px;
+  text-align: right;
+  margin: -10px 20px;
 }
 .App-about {
   margin: 5%;
@@ -44,7 +51,7 @@ section {
 }
 .social-links i {
   color: white;
-  font-size: 15px;
+  font-size: 22px;
   padding-right: 10px;
 }
 
