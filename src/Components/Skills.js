@@ -3,7 +3,7 @@ export default class Skills extends Component {
   render() {
     return (
       <section>
-        All my skills
+        // All my skills tbc
       </section>
     );
   }

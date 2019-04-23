@@ -8,23 +8,12 @@ import P5Wrapper from 'react-p5-wrapper';
 import sketch from './Common/Sketches';
 
 class App extends Component {
-  state = {
-    color:[Math.random()*255, Math.random()*255, Math.random()*255]
-  };
 
-  randomColor = () => {
-    this.setState(
-      {
-        color:[Math.random()*255, Math.random()*255, Math.random()*255]
-      }
-  )
-}
   render() {
     return (
       <div className="App">
         <Nav />
         <P5Wrapper crumbs={crumbs} sketch={sketch} image={crumbs}></P5Wrapper>
-        {/* <button onClick={this.randomColor}>Random Color</button> */}
         <About crumbs={crumbs}/>
         {/* <Skills /> */}
     </div>
