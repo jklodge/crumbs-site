@@ -7,11 +7,11 @@ export default function sketch(p){
       img = p.loadImage(crumbs);
     }
     p.setup = () => {
-      p.createCanvas(window.innerWidth, document.body.offsetHeight);
+      p.createCanvas(window.innerWidth - 40, document.body.offsetHeight);
       p.noStroke();
     }
     p.windowResized = () => {
-      p.resizeCanvas(window.innerWidth, window.innerHeight);
+      p.resizeCanvas(window.innerWidth - 40, window.innerHeight);
     }
 
     p.mouseClicked = (event) => {

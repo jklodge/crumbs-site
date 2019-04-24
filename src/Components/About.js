@@ -8,12 +8,12 @@ export default class About extends Component {
         <h2>Welcome to my canvas!</h2>
         <h3>Be careful of crumbs</h3>
         <p>Developer exploring code in JavaScript</p>
-        <div class="social-links">
+        <div className="social-links">
           <a href="https://github.com/jklodge">
-            <i class="fab fa-github" title="GitHub"></i>
+            <i className="fab fa-github" title="GitHub"></i>
           </a>
           <a href="mailto:jessicaklodge@gmail.com">
-            <i class="far fa-envelope" title="Email"></i>
+            <i className="far fa-envelope" title="Email"></i>
           </a>
         </div>
       </div>
